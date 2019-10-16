@@ -14,7 +14,7 @@ After generating the dataset, you can run the CNN.py to start training.
 完成训练后，可以通过Load_Predict.py预测  
 After completing the training, you can predict by load_predict.py  
 
-## 你可以通过百度云下载已经训练好的模型
-You can download the trained model through Baidu Cloud.  
+## 已经存储好的tfrecords可以通过百度云下载：
+You can download the tfrecords through Baidu Cloud.  
 链接：https://pan.baidu.com/s/191Xb0WFd2HQ0KII-kpriPg 
 提取码：7mh0 
